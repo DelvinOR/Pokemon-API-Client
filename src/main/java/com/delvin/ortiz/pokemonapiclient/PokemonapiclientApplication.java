@@ -1,5 +1,7 @@
 package com.delvin.ortiz.pokemonapiclient;
 
+import com.delvin.ortiz.pokemonapiclient.model.*;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

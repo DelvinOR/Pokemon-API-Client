@@ -1,4 +1,4 @@
-package com.delvin.ortiz.pokemonapiclient;
+package com.delvin.ortiz.pokemonapiclient.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
